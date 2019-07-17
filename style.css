@@ -1,0 +1,36 @@
+body {
+  display: block;
+  text-align: center;
+}
+
+main {
+    background: #d3d3d3;
+    padding: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    border-radius: 60px;
+}
+
+ul {
+  text-align: left;
+  list-style-position: inside;
+}
+
+li {
+  padding: 5px;
+}
+
+figure {
+  padding: 15px 0px 15px 0px;
+  background: white;
+  display: inline-block;
+  width: 900px;
+  border-radius: 60px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 60px;
+}
